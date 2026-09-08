@@ -1,0 +1,26 @@
+{
+  "name": "fantasy-ucl-tracker-backend",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "dev": "node --env-file-if-exists=.env --watch src/server.js",
+    "start": "node --env-file-if-exists=.env src/server.js",
+    "test": "node --test",
+    "badges:sync": "node --env-file-if-exists=.env scripts/sync-team-badges.js",
+    "db:check": "node --env-file-if-exists=.env scripts/check-db.js",
+    "db:migrate": "node --env-file-if-exists=.env scripts/migrate-db.js",
+    "db:reset": "node --env-file-if-exists=.env scripts/reset-db.js",
+    "test:db": "node --env-file-if-exists=.env --test test/groups-db.test.js",
+    "db:create": "node --env-file-if-exists=.env scripts/create-db.js",
+    "auth:invite": "node --env-file-if-exists=.env scripts/invite-user.js",
+    "auth:hash": "node scripts/hash-password.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "pg": "^8.23.0"
+  }
+}
