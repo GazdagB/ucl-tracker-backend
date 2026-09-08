@@ -1,6 +1,5 @@
 import { DrawError } from './groups.js';
 import { getMatches, groupStandingsFromMatches } from './matches.js';
-import { getSquad } from './squads.js';
 
 export const knockoutSchema = `
   CREATE TABLE IF NOT EXISTS knockout_results (
@@ -143,9 +142,6 @@ export async function saveKnockoutMatch(pool, input) {
   for (const side of ['home', 'away']) {
     const sideScorers = scorers.filter(scorer => scorer.side === side);
     if (sideScorers.length !== (side === 'home' ? homeScore : awayScore)) throw new DrawError(`Scorer counts must match ${fixture[side].team}'s score.`);
-    if (!sideScorers.length) continue;
-    const squad = await getSquad(fixture[side].team);
-    if (sideScorers.some(scorer => !squad.players.some(player => player.name === scorer.player))) throw new DrawError(`Select goal scorers from ${fixture[side].team}'s squad.`);
   }
   const result = await pool.query(`INSERT INTO knockout_results (draw_version, fixture_key, home_team, away_team, home_score, away_score, winner_team, scorers) VALUES ($1,$2,$3,$4,$5,$6,$7,$8) ON CONFLICT (draw_version, fixture_key) DO UPDATE SET home_team=EXCLUDED.home_team, away_team=EXCLUDED.away_team, home_score=EXCLUDED.home_score, away_score=EXCLUDED.away_score, winner_team=EXCLUDED.winner_team, scorers=EXCLUDED.scorers, updated_at=NOW() RETURNING fixture_key, home_team, away_team, home_score, away_score, winner_team, scorers, updated_at`, [data.draw.version, fixture.key, fixture.home.team, fixture.away.team, homeScore, awayScore, input.winnerTeam, JSON.stringify(scorers)]);
   return databaseResult(result.rows[0]);

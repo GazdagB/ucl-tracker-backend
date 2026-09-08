@@ -1,5 +1,4 @@
 import { DrawError, fixturesForDraw, getLatestDraw } from "./groups.js";
-import { getSquad } from './squads.js';
 
 export const matchesSchema = `
   CREATE TABLE IF NOT EXISTS match_results (
@@ -53,13 +52,9 @@ export async function saveMatch(pool, input) {
   const draw = await getLatestDraw(pool);
   if (!draw) throw new DrawError("Generate the groups before recording a match.", 409);
   if (!fixturesForDraw(draw).some((fixture) => fixture.key === update.fixtureKey)) throw new DrawError("That fixture is not in the current draw.", 409);
-  const fixture = fixturesForDraw(draw).find(f => f.key === update.fixtureKey);
   for (const side of ['home', 'away']) {
     const goals = update.scorers.filter(s => s.side === side);
     if (goals.length !== (update[side + 'Score'] ?? 0)) throw new DrawError('Scorer counts must match each team’s score.');
-    if (!goals.length) continue;
-    const squad = await getSquad(fixture[side].team);
-    if (goals.some(goal => !squad.players.some(player => player.name === goal.player))) throw new DrawError(`Select goal scorers from ${fixture[side].team}'s squad.`);
   }
   const result = await pool.query(`INSERT INTO match_results (draw_version, fixture_key, home_score, away_score, scorers) VALUES ($1, $2, $3, $4, $5) ON CONFLICT (draw_version, fixture_key) DO UPDATE SET home_score = EXCLUDED.home_score, away_score = EXCLUDED.away_score, scorers = EXCLUDED.scorers, updated_at = NOW() RETURNING fixture_key, home_score, away_score, scorers, updated_at`, [draw.version, update.fixtureKey, update.homeScore, update.awayScore, JSON.stringify(update.scorers)]);
   return result.rows[0];

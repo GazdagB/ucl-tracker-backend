@@ -1,7 +1,17 @@
 import assert from 'node:assert/strict';
 import test from 'node:test';
 import { fixturesForDraw } from '../src/groups.js';
-import { goldenBootFromMatches, groupStandingsFromMatches, leaderboardFromMatches } from '../src/matches.js';
+import { goldenBootFromMatches, groupStandingsFromMatches, leaderboardFromMatches, validateMatchUpdate } from '../src/matches.js';
+
+test('manual scorer names are accepted when a provider squad is incomplete', () => {
+  const update = validateMatchUpdate({
+    fixtureKey: 'group-A-1',
+    homeScore: 1,
+    awayScore: 0,
+    scorers: [{ side: 'home', player: '  Academy Player  ' }],
+  });
+  assert.deepEqual(update.scorers, [{ side: 'home', player: 'Academy Player' }]);
+});
 
 test('group standings track results and rank teams by points, goal difference and goals scored', () => {
   const draw = { groups: [{ name: 'A', entries: [
