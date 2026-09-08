@@ -79,7 +79,7 @@ Both provider links and the required Football-Data attribution appear on the gro
 
 ## Hosting preparation
 
-The server reads `DATABASE_URL` and `PORT` from its environment and listens on all interfaces. `railway.json` selects Nixpacks, runs `npm run db:migrate` before each deployment, starts with `npm start`, and checks `/api/health`. On Railway, attach PostgreSQL and configure `DATABASE_URL`, `TOURNAMENT_EMAIL`, `TOURNAMENT_DISPLAY_NAME`, and `TOURNAMENT_PASSWORD_HASH`; Railway supplies `PORT` automatically.
+The server reads `DATABASE_URL` and `PORT` from its environment and listens on all interfaces. `.railway/railway.ts` connects the GitHub source, preserves service variables, runs `npm run db:migrate` before each deployment, starts with `npm start`, and checks `/api/health`. On Railway, attach PostgreSQL and configure `DATABASE_URL`, `TOURNAMENT_EMAIL`, `TOURNAMENT_DISPLAY_NAME`, and `TOURNAMENT_PASSWORD_HASH`; Railway supplies `PORT` automatically.
 
 ## Connect your remote
 
