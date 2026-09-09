@@ -13,6 +13,7 @@ export default defineRailway(() => {
     preDeploy: "npm run db:migrate",
     env: {
       DATABASE_URL: preserve(),
+      FOOTBALL_DATA_API_KEY: preserve(),
       NODE_ENV: preserve(),
       TOURNAMENT_DISPLAY_NAME: preserve(),
       TOURNAMENT_EMAIL: preserve(),
