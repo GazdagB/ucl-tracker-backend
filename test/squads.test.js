@@ -49,3 +49,18 @@ test('club names containing slashes remain a single safe cache filename', () => 
   assert.equal(filename.includes('/'), false);
   assert.equal(filename.includes('\\'), false);
 });
+
+test('bundled squad fallback prevents provider outages from returning 503', async () => {
+  let calls = 0;
+  const squad = createSquadLoader({
+    key: '',
+    sportsKey: '',
+    diskCache: null,
+    request: async () => { calls++; throw new Error('provider offline'); },
+  });
+  const psg = await squad('Paris Saint-Germain');
+  assert.equal(calls, 0);
+  assert.equal(psg.provider, 'bundled');
+  assert.ok(psg.players.length >= 20);
+  assert.ok(psg.players.some(player => player.name === 'Ousmane Dembélé'));
+});

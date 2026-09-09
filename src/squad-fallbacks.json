@@ -1,0 +1,4142 @@
+{
+  "Arsenal": [
+    {
+      "name": "Ben White",
+      "position": "Defence",
+      "image": "https://www.thesportsdb.com/images/media/player/cutout/vwzzwn1788606671.png"
+    },
+    {
+      "name": "Bruno Guimarães",
+      "position": "Midfield",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/trty041786916932.png"
+    },
+    {
+      "name": "Bukayo Saka",
+      "position": "Offence",
+      "image": "https://www.thesportsdb.com/images/media/player/cutout/7np7651788606735.png"
+    },
+    {
+      "name": "Christos Tzolis",
+      "position": "Offence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/sbnywa1786916893.png"
+    },
+    {
+      "name": "Cristhian Mosquera",
+      "position": "Defence",
+      "image": "https://www.thesportsdb.com/images/media/player/cutout/pb7f471788606654.png"
+    },
+    {
+      "name": "David Raya",
+      "position": "Goalkeeper",
+      "image": "https://www.thesportsdb.com/images/media/player/cutout/esy9341788606559.png"
+    },
+    {
+      "name": "Declan Rice",
+      "position": "Midfield",
+      "image": "https://www.thesportsdb.com/images/media/player/cutout/v1ijg61788607059.png"
+    },
+    {
+      "name": "Eberechi Eze",
+      "position": "Midfield",
+      "image": "https://www.thesportsdb.com/images/media/player/cutout/15phjf1788606753.png"
+    },
+    {
+      "name": "Ethan Nwaneri",
+      "position": "Attacking Midfield",
+      "image": "https://www.thesportsdb.com/images/media/player/cutout/div1tk1788606937.png"
+    },
+    {
+      "name": "Ezri Konsa",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Gabriel Magalhães",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Illan Meslier",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Jurrien Timber",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Kai Havertz",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Kepa Arrizabalaga",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Martin Ødegaard",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Martín Zubimendi",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Max Dowman",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Mikel Merino",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Myles Lewis-Skelly",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Noni Madueke",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Piero Hincapié",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Riccardo Calafiori",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Viktor Gyökeres",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "William Saliba",
+      "position": "Defence",
+      "image": null
+    }
+  ],
+  "Aston Villa": [
+    {
+      "name": "Aaron Wan-Bissaka",
+      "position": "Defence",
+      "image": "https://www.thesportsdb.com/images/media/player/cutout/b3plaa1788604864.png"
+    },
+    {
+      "name": "Alejandro Garnacho",
+      "position": "Offence",
+      "image": "https://www.thesportsdb.com/images/media/player/cutout/diaokn1788605013.png"
+    },
+    {
+      "name": "Alysson",
+      "position": "Offence",
+      "image": "https://www.thesportsdb.com/images/media/player/cutout/ow9mlh1788605192.png"
+    },
+    {
+      "name": "Amadou Onana",
+      "position": "Midfield",
+      "image": "https://www.thesportsdb.com/images/media/player/cutout/sgia231788605427.png"
+    },
+    {
+      "name": "Boubacar Kamara",
+      "position": "Midfield",
+      "image": "https://www.thesportsdb.com/images/media/player/cutout/ob3iqq1788604973.png"
+    },
+    {
+      "name": "Brian Madjo",
+      "position": "Offence",
+      "image": "https://www.thesportsdb.com/images/media/player/cutout/d6j93m1788605257.png"
+    },
+    {
+      "name": "Emi Buendía",
+      "position": "Right Winger",
+      "image": "https://www.thesportsdb.com/images/media/player/cutout/1op34t1788604994.png"
+    },
+    {
+      "name": "Emiliano Buendía",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "George Hemmings",
+      "position": "Offence",
+      "image": "https://www.thesportsdb.com/images/media/player/cutout/uzqjpu1788605213.png"
+    },
+    {
+      "name": "Ian Maatsen",
+      "position": "Defence",
+      "image": "https://www.thesportsdb.com/images/media/player/cutout/on5i3g1788604825.png"
+    },
+    {
+      "name": "Ibrahim M'Baye",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Ibrahim Mbaye",
+      "position": "Right Winger",
+      "image": "https://www.thesportsdb.com/images/media/player/cutout/2nudp41788605058.png"
+    },
+    {
+      "name": "João Gomes",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Johan Manzambi",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "John McGinn",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Lamare Bogarde",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Leon Goretzka",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Marco Bizot",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Matteo Ruggeri",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Matty Cash",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Modou Keba Cisse",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Nicolas Jackson",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Pau Torres",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Ross Barkley",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Tammy Abraham",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Taylor Harwood-Bellis",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Tyrone Mings",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Victor Nilsson-Lindelöf",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Zion Suzuki",
+      "position": "Goalkeeper",
+      "image": null
+    }
+  ],
+  "Atlético de Madrid": [
+    {
+      "name": "Ademola Lookman",
+      "position": "Offence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/wg0pod1772033492.png"
+    },
+    {
+      "name": "Alejandro Baena",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Alejandro Grimaldo",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Álex Baena",
+      "position": "Left Midfield",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/04ntmp1762890059.png"
+    },
+    {
+      "name": "Álex Grimaldo",
+      "position": "Left-Back",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/ddeb6b1756316030.png"
+    },
+    {
+      "name": "Alexander Sørloth",
+      "position": "Offence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/v3of4b1762288730.png"
+    },
+    {
+      "name": "Arnau Ortiz",
+      "position": "Offence",
+      "image": "https://r2.thesportsdb.com/images/media/player/thumb/y496z51785656990.jpg"
+    },
+    {
+      "name": "Carlos Martin",
+      "position": "Offence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/9604g71762288666.png"
+    },
+    {
+      "name": "Christian Romero",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Cristian Romero",
+      "position": "Centre-Back",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/dme7x81757016317.png"
+    },
+    {
+      "name": "Daniel Martínez",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Dávid Hancko",
+      "position": "Defence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/4pa7qb1762288414.png"
+    },
+    {
+      "name": "Giuliano Simeone",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Jan Oblak",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Johnny",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Jonathan David",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Jorge Domínguez",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Juan Musso",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Julián Álvarez",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Kang-in Lee",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Koke",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Marc Pubill",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Marcos Llorente",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Morten Hjulmand",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Obed Vargas",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Pablo Barrios",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Robin Le Normand",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Rodrigo Mendoza",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Salvi Esquivel",
+      "position": "Goalkeeper",
+      "image": null
+    }
+  ],
+  "Barcelona": [
+    {
+      "name": "Alejandro Balde",
+      "position": "Left-Back",
+      "image": "https://www.thesportsdb.com/images/media/player/cutout/t5jg971788528301.png"
+    },
+    {
+      "name": "Álex Balde",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Andreas Christensen",
+      "position": "Defence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/ynkck21768321682.png"
+    },
+    {
+      "name": "Anthony Gordon",
+      "position": "Offence",
+      "image": "https://www.thesportsdb.com/images/media/player/cutout/3brugk1787516172.png"
+    },
+    {
+      "name": "Brian Fariñas",
+      "position": "Midfield",
+      "image": "https://www.thesportsdb.com/images/media/player/thumb/muk5791788374132.jpg"
+    },
+    {
+      "name": "Dani Olmo",
+      "position": "Midfield",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/s9hzoh1725611346.png"
+    },
+    {
+      "name": "Dominik Livaković",
+      "position": "Goalkeeper",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/pp3yab1762457197.png"
+    },
+    {
+      "name": "Eric García",
+      "position": "Defence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/agfrk61726510225.png"
+    },
+    {
+      "name": "Fermín",
+      "position": "Central Midfield",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/4skahz1761512602.png"
+    },
+    {
+      "name": "Fermín López",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Frenkie de Jong",
+      "position": "Midfield",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/b8k6611726510284.png"
+    },
+    {
+      "name": "Gabriel Jesus",
+      "position": "Offence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/rwsqi51769330458.png"
+    },
+    {
+      "name": "Gerard Martín",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Hamza Abdelkarim",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Jesse Bisiwu",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Joan García",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "João Cancelo",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Jules Koundé",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Karim Adeyemi",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Lamine Yamal",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Marc Bernal",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Pablo Gavira",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Pau Cubarsí",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Pedri",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Raphinha",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Rodri",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Roony Bardghji",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Wojciech Szczęsny",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Xavi Espart",
+      "position": "Defence",
+      "image": null
+    }
+  ],
+  "Bayern München": [
+    {
+      "name": "Aleksandar Pavlović",
+      "position": "Midfield",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/22ti3z1756408943.png"
+    },
+    {
+      "name": "Alphonso Davies",
+      "position": "Defence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/11afh31756409066.png"
+    },
+    {
+      "name": "Bara Ndiaye",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Bara Sapoko Ndiaye",
+      "position": "Central Midfield",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/k40qsh1780567968.png"
+    },
+    {
+      "name": "David Daiber",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Dayot Upamecano",
+      "position": "Defence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/a1hyfj1756416177.png"
+    },
+    {
+      "name": "Harry Kane",
+      "position": "Offence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/j4ouvd1756408895.png"
+    },
+    {
+      "name": "Hiroki Ito",
+      "position": "Defence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/9jngzv1756409131.png"
+    },
+    {
+      "name": "Ismael Saibari",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Jamal Musiala",
+      "position": "Midfield",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/vbkv611756416067.png"
+    },
+    {
+      "name": "João Palhinha",
+      "position": "Defensive Midfield",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/o0ii6n1757016009.png"
+    },
+    {
+      "name": "Jonas Urbig",
+      "position": "Goalkeeper",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/tulqq91756408991.png"
+    },
+    {
+      "name": "Jonathan Tah",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Joshua Kimmich",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Josip Stanišić",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Konrad Laimer",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Lennart Karl",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Luis Díaz",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Manuel Neuer",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Michael Olise",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Min-Jae Kim",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Nathaniel Brown",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Sacha Boey",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Serge Gnabry",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Sven Ulreich",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Tom Bischof",
+      "position": "Midfield",
+      "image": null
+    }
+  ],
+  "Bodø/Glimt": [
+    {
+      "name": "Anders Ferslev Klynge",
+      "position": "Midfielder",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/y4kk4r1702558909.png"
+    },
+    {
+      "name": "Andreas Helmersen",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "August Mikkelsen",
+      "position": "Second Striker",
+      "image": null
+    },
+    {
+      "name": "Brede Moe",
+      "position": "Centre-Back",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/vwhs941610707746.png"
+    },
+    {
+      "name": "Daniel Bassi",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Daniel Berntsen",
+      "position": "Central Midfield",
+      "image": null
+    },
+    {
+      "name": "Fredrik Bjørkan",
+      "position": "Defence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/bc3jn51769181808.png"
+    },
+    {
+      "name": "Fredrik Sjøvold",
+      "position": "Defence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/6ulx7f1769182010.png"
+    },
+    {
+      "name": "Haitam Aleesami",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Hindrin Najah Chooly",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Isak Määttä",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Jens Hauge",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Joel Mugisha",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Joshua Kitolano",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Jostein Gundersen",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Julian Lund",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Kasper Solhaug",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Magnus Riisnæs",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Mathias Olsen",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Mikkel Hansen",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Nikita Haikin",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Odin Lurås Bjørtuft",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Ola Brynhildsen",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Ole Blomberg",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Patrick Berg",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Sondre Auklend",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Sondre Fet",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Teo Ingilæ",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Ulrik Saltnes",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Villads Nielsen",
+      "position": "Defence",
+      "image": null
+    }
+  ],
+  "Borussia Dortmund": [
+    {
+      "name": "Alexander Meyer",
+      "position": "Goalkeeper",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/9uexf01756326428.png"
+    },
+    {
+      "name": "Carney Chukwuemeka",
+      "position": "Midfield",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/oa3p4i1741868651.png"
+    },
+    {
+      "name": "Cole Campbell",
+      "position": "Right Winger",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/08wm3q1756326092.png"
+    },
+    {
+      "name": "Daniel Svensson",
+      "position": "Defence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/q4wdbj1756326141.png"
+    },
+    {
+      "name": "Emre Can",
+      "position": "Defence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/grs3841756326161.png"
+    },
+    {
+      "name": "Enzo dos Santos",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Ethan Nwaneri",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Fábio Silva",
+      "position": "Offence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/qgss7i1762964939.png"
+    },
+    {
+      "name": "Felix Kalu Nmecha",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Felix Nmecha",
+      "position": "Central Midfield",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/g7bqrz1756326448.png"
+    },
+    {
+      "name": "Filippo Mané",
+      "position": "Defence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/hxuw061756326401.png"
+    },
+    {
+      "name": "Giannis Konstantelias",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Gregor Kobel",
+      "position": "Goalkeeper",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/vri4zw1756326279.png"
+    },
+    {
+      "name": "Jobe Bellingham",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Joey Veerman",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Julian Ryerson",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Justin Lerma",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Kaua Prates",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Konstantinos Karetsas",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Kouakou Gadou",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Luca Reggiani",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Marcel Sabitzer",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Mathis Albert",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Maximilian Beier",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Mussa Kaba",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Nico Schlotterbeck",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Patrick Drewes",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Ramy Bensebaini",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Samuele Inácio",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Sehrou Guirassy",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Silas Ostrzinski",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Waldemar Anton",
+      "position": "Defence",
+      "image": null
+    }
+  ],
+  "Club Brugge": [
+    {
+      "name": "Aleksandar Stankovic",
+      "position": "Defensive Midfield",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/hvd7m11767640858.png"
+    },
+    {
+      "name": "Andrej Vasovic",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Argus Vanden Driessche",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Axl De Corte",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Bjorn Meijer",
+      "position": "Defender",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/utfwkg1767634361.png"
+    },
+    {
+      "name": "Brandon Mechele",
+      "position": "Defence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/vicmek1767634348.png"
+    },
+    {
+      "name": "Carlos Forbs",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Carlos Forbs Borges",
+      "position": "Left Wing",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/ildd621767634247.png"
+    },
+    {
+      "name": "Cheveyo Tsawa",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Felix Lemarechal",
+      "position": "Midfield",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/9267i41766402439.png"
+    },
+    {
+      "name": "Freddie Potts",
+      "position": "Midfield",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/7mnvq31772133690.png"
+    },
+    {
+      "name": "Gustaf Nilsson",
+      "position": "Centre-Forward",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/1lbrdw1767634399.png"
+    },
+    {
+      "name": "Han-bum Lee",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Hans Vanaken",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Hugo Siquet",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Hugo Vetlesen",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Jan Virgili",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Joaquin Seys",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Joel Ordoñez",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Jorne Spileers",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Kyriani Sabbe",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Lynnt Audoor",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Mamadou Diakhon",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Nicolo Tresoldi",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Nordin Jackers",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Romeo Vermant",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Tian Koren",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Wisdom Mike",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Yann Sommer",
+      "position": "Goalkeeper",
+      "image": null
+    }
+  ],
+  "Fenerbahçe": [
+    {
+      "name": "Adem Yeşilyurt",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Amara Diouf",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Archie Brown",
+      "position": "Defence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/2umm131769179361.png"
+    },
+    {
+      "name": "Bartuğ Elmaz",
+      "position": "Midfield",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/qjvzou1724847578.png"
+    },
+    {
+      "name": "Çağlar Söyüncü",
+      "position": "Defence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/ndlact1769179871.png"
+    },
+    {
+      "name": "Cengiz Ünder",
+      "position": "Right Winger",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/967lni1724850372.png"
+    },
+    {
+      "name": "Diego Carlos",
+      "position": "Centre-Back",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/u0hz4n1764278170.png"
+    },
+    {
+      "name": "Dorgeles Nene",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Ederson",
+      "position": "Goalkeeper",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/xhlait1769179027.png"
+    },
+    {
+      "name": "Ertuğrul Çetin",
+      "position": "Goalkeeper",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/lj63r91769179624.png"
+    },
+    {
+      "name": "Fred",
+      "position": "Central Midfield",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/herlvx1769178781.png"
+    },
+    {
+      "name": "İrfan Kahveci",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "İsmail Yüksek",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Jayden Oosterwolde",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Kojo Peprah Oppong",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Levent Mercan",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Marco Asensio",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Mason Greenwood",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Mattéo Guendouzi",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Mert Günok",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Mert Hakan Yandaş",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Mert Müldür",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Milan Škriniar",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Muhammed Kerem Aktürkoğlu",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "N'Golo Kanté",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Nathan Aké",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Nélson Semedo",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Ognjen Mimović",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Oguz Aydin",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Rodrigo Becão",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Romelu Lukaku",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Talisca",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Tarık Çetin",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Vedat Muriqi",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Yigit Efe Demir",
+      "position": "Defence",
+      "image": null
+    }
+  ],
+  "Feyenoord": [
+    {
+      "name": "Anis Hadj Moussa",
+      "position": "Right Winger",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/54rafl1732695177.png"
+    },
+    {
+      "name": "Anis Moussa",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Ayase Ueda",
+      "position": "Centre-Forward",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/5ezc8v1758188908.png"
+    },
+    {
+      "name": "Bart Nieuwkoop",
+      "position": "Defence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/jn13uq1758187432.png"
+    },
+    {
+      "name": "Casper Tengstedt",
+      "position": "Winger",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/nlsq5n1764436787.png"
+    },
+    {
+      "name": "Charles Vanhoutte",
+      "position": "Midfield",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/dsej2z1766319950.png"
+    },
+    {
+      "name": "Florian Kastenmeier",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Gaoussou Diarra",
+      "position": "Offence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/2yn9c41759780536.png"
+    },
+    {
+      "name": "Gernot Trauner",
+      "position": "Centre-Back",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/fwdsrv1758188883.png"
+    },
+    {
+      "name": "Gijs Smal",
+      "position": "Defence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/gjl7gb1758188742.png"
+    },
+    {
+      "name": "Givairo Read",
+      "position": "Defence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/o6773q1758187563.png"
+    },
+    {
+      "name": "Gjivai Zechiël",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Gonçalo Borges",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Jakub Moder",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Javi López",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Jerry St. Juste",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Jivayno Zinhagel",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Jordan Bos",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Jordan Lotomba",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Liam Bossin",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Luciano Valente",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Mannou Berger",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Mats Deijl",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Mika Marmol",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Nacho Ferri",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Oussama Targhalline",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Sem Steijn",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Shaqueel van Persie",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Thijs Kraaijeveld",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Thomas Beelen",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Tijme Wessels",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Tjark Ernst",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Tobias van den Elshout",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Tsuyoshi Watanabe",
+      "position": "Defence",
+      "image": null
+    }
+  ],
+  "Galatasaray": [
+    {
+      "name": "Abdülkerim Bardakcı",
+      "position": "Defence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/uncf0f1769178149.png"
+    },
+    {
+      "name": "Ada Yüzgeç",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Aleksey Batrakov",
+      "position": "Midfield",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/ywp4b51754727860.png"
+    },
+    {
+      "name": "Arda Unyay",
+      "position": "Defence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/rquw171780063280.png"
+    },
+    {
+      "name": "Arda Yılmaz",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Atakan Ordu",
+      "position": "Goalkeeper",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/rzrlei1769177349.png"
+    },
+    {
+      "name": "Baris Yilmaz",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Barış Alper Yılmaz",
+      "position": "Right Winger",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/bmtzkn1717532810.png"
+    },
+    {
+      "name": "Batuhan Şen",
+      "position": "Goalkeeper",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/3lr2f21769178021.png"
+    },
+    {
+      "name": "Berat Luş",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Can Güner",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Chimuanya Ugochukwu",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Davinson Sánchez",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Deniz Gul",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "El Chadaille Bitshiabu",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Evren Eren Elmalı",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Eyup Aydin",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Gabriel Sara",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Günay Güvenç",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "İlhami Siraçhan Nas",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Ilkay Gündogan",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Ismail Jakobs",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Jankat Yilmaz",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Kaan Ayhan",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Kazımcan Karataş",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Leroy Sané",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Lucas Torreira",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Mario Lemina",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Rafael Leão",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Renato Nhaga",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Roland Sallai",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Uğurcan Çakır",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Victor Osimhen",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Wilfried Singo",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Yunus Akgün",
+      "position": "Offence",
+      "image": null
+    }
+  ],
+  "Inter": [
+    {
+      "name": "Aleksandar Stankovic",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Alessandro Bastoni",
+      "position": "Defence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/hwixpa1759408795.png"
+    },
+    {
+      "name": "Andy Diouf",
+      "position": "Midfield",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/38x9vh1759408128.png"
+    },
+    {
+      "name": "Ange-Yoan Bonny",
+      "position": "Offence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/d7uly91759408116.png"
+    },
+    {
+      "name": "Benjamin Pavard",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Carlos",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Carlos Neves",
+      "position": "Midfielder",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/a92ocl1759408951.png"
+    },
+    {
+      "name": "Curtis Jones",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Djed Spence",
+      "position": "Defence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/erd1vi1757875565.png"
+    },
+    {
+      "name": "Federico Dimarco",
+      "position": "Defence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/0rhwx41759408849.png"
+    },
+    {
+      "name": "Francesco Acerbi",
+      "position": "Centre-Back",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/7ewuqw1759408766.png"
+    },
+    {
+      "name": "Francesco Esposito",
+      "position": "Offence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/22mew91759408142.png"
+    },
+    {
+      "name": "Hakan Çalhanoğlu",
+      "position": "Midfield",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/hw8uxm1759408821.png"
+    },
+    {
+      "name": "Henrikh Mkhitaryan",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Ivan Provedel",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "John Stones",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Josep Martinez",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Lautaro Martínez",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Luis Henrique",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Manuel Akanji",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Marcus Thuram-Ulien",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Nicolò Barella",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Petar Sucic",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Piotr Zieliński",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Raffaele Di Gennaro",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Yann Aurel Bisseck",
+      "position": "Defence",
+      "image": null
+    }
+  ],
+  "Lille": [
+    {
+      "name": "Alexsandro Ribeiro",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Arnaud Bodart",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Ayase Ueda",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Basar Onal",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Benjamin André",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Berke Özer",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Calvin Verdonk",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Dilane Bakwa",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Ethan Mbappé",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Gaëtan Perrin",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Hákon Arnar Haraldsson",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Hamza Igamane",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Isaac Cossier",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Loun Srdanovic",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Maurits Kjærgaard",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Mohamed Bayo",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Nabil Bentaleb",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Nathan Ngoy",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Ngal'ayel Mukau",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Nianzou Kouassi",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Olivier Giroud",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Orlando Gill",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Osame Sahraoui",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Romain Perraud",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Soriba Diaoune",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Tiago Fonseca Morais",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Tiago Santos",
+      "position": "Defence",
+      "image": null
+    }
+  ],
+  "Liverpool": [
+    {
+      "name": "Alexander Isak",
+      "position": "Offence",
+      "image": "https://www.thesportsdb.com/images/media/player/cutout/x5czue1788551058.png"
+    },
+    {
+      "name": "Alexis Mac Allister",
+      "position": "Midfield",
+      "image": "https://www.thesportsdb.com/images/media/player/cutout/t0d3bt1788551187.png"
+    },
+    {
+      "name": "Alisson Becker",
+      "position": "Goalkeeper",
+      "image": "https://www.thesportsdb.com/images/media/player/cutout/xj6j4o1788592263.png"
+    },
+    {
+      "name": "Bradley Barcola",
+      "position": "Offence",
+      "image": "https://www.thesportsdb.com/images/media/player/cutout/bvm4vi1788550565.png"
+    },
+    {
+      "name": "Cody Gakpo",
+      "position": "Offence",
+      "image": "https://www.thesportsdb.com/images/media/player/cutout/lnikpg1788551025.png"
+    },
+    {
+      "name": "Conor Bradley",
+      "position": "Defence",
+      "image": "https://www.thesportsdb.com/images/media/player/cutout/rpjvit1788591636.png"
+    },
+    {
+      "name": "Curtis Jones",
+      "position": "Central Midfield",
+      "image": "https://www.thesportsdb.com/images/media/player/cutout/v2hg2v1788591794.png"
+    },
+    {
+      "name": "Dominik Szoboszlai",
+      "position": "Midfield",
+      "image": "https://www.thesportsdb.com/images/media/player/cutout/ummq671788551244.png"
+    },
+    {
+      "name": "Federico Chiesa",
+      "position": "Offence",
+      "image": "https://www.thesportsdb.com/images/media/player/cutout/xzkvsm1788591958.png"
+    },
+    {
+      "name": "Florian Wirtz",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Freddie Woodman",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Giorgi Mamardashvili",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Giovanni Leoni",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Harvey Davies",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Hugo Ekitike",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Jeremie Frimpong",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Jeremy Jacquet",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Joe Gomez",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Kostas Tsimikas",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Milos Kerkez",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Rio Ngumoha",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Ronald Araújo",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Ryan Gravenberch",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Trey Nyoni",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Víctor Muñoz",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Virgil van Dijk",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Vítězslav Jaroš",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Wataru Endō",
+      "position": "Midfield",
+      "image": null
+    }
+  ],
+  "Manchester City": [
+    {
+      "name": "Abdukodir Khusanov",
+      "position": "Defence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/da8tg41769182137.png"
+    },
+    {
+      "name": "Allan",
+      "position": "Offence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/xe9qzy1767690741.png"
+    },
+    {
+      "name": "Antoine Semenyo",
+      "position": "Offence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/9y2ge41768393433.png"
+    },
+    {
+      "name": "Ayyoub Bouaddi",
+      "position": "Midfield",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/g1bppf1766077416.png"
+    },
+    {
+      "name": "Claudio Echeverri",
+      "position": "Attacking Midfield",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/jbdnk91756315963.png"
+    },
+    {
+      "name": "Elliot Anderson",
+      "position": "Midfield",
+      "image": "https://www.thesportsdb.com/images/media/player/cutout/vyqnfz1787493776.png"
+    },
+    {
+      "name": "Enzo Fernández",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Erling Haaland",
+      "position": "Offence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/un3jr11769182465.png"
+    },
+    {
+      "name": "Géronimo Rulli",
+      "position": "Goalkeeper",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/cpkkmg1766153528.png"
+    },
+    {
+      "name": "Gianluigi Donnarumma",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Iliman Ndiaye",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Jeremy Doku",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Josh Wilson-Esbrand",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Joško Gvardiol",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Marc Guéhi",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Marcus Bettinelli",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Mateo Kovačić",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Matheus Nunes",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Nico O'Reilly",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Phil Foden",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Rayan Aït Nouri",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Rayan Cherki",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Rico Lewis",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Rúben Dias",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Ryan McAidoo",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Vitor Reis",
+      "position": "Defence",
+      "image": null
+    }
+  ],
+  "Manchester United": [
+    {
+      "name": "Amad Diallo",
+      "position": "Offence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/8p6wbg1766826668.png"
+    },
+    {
+      "name": "Andrey Santos",
+      "position": "Midfield",
+      "image": "https://www.thesportsdb.com/images/media/player/cutout/hg8vhn1787493419.png"
+    },
+    {
+      "name": "Ayden Heaven",
+      "position": "Defence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/10d8d61766826718.png"
+    },
+    {
+      "name": "Bendito Mantato",
+      "position": "Midfielder",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/tn5wva1770992405.png"
+    },
+    {
+      "name": "Benjamin Šeško",
+      "position": "Offence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/lm21y71766827016.png"
+    },
+    {
+      "name": "Bruno Fernandes",
+      "position": "Midfield",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/jhasls1766826690.png"
+    },
+    {
+      "name": "Bryan Mbeumo",
+      "position": "Offence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/op28s81755176679.png"
+    },
+    {
+      "name": "Carlos Baleba",
+      "position": "Midfield",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/52x9bk1756994205.png"
+    },
+    {
+      "name": "Dermot Mee",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Diego León",
+      "position": "Left-Back",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/hmrg6f1766826416.png"
+    },
+    {
+      "name": "Diogo Dalot",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Harry Amass",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Harry Maguire",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Jack Fletcher",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Joshua Zirkzee",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Karl Darlow",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Kobbie Mainoo",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Leny Yoro",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Lisandro Martínez",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Luke Shaw",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Manuel Ugarte",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Marcus Rashford",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Mason Mount",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Matheus Cunha",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Matthijs de Ligt",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Noussair Mazraoui",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Patrick Dorgu",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Senne Lammens",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Shea Lacey",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Tom Heaton",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Tyler Fletcher",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Youri Tielemans",
+      "position": "Midfield",
+      "image": null
+    }
+  ],
+  "Napoli": [
+    {
+      "name": "Alessandro Buongiorno",
+      "position": "Defence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/01fcb61762288142.png"
+    },
+    {
+      "name": "Alex Meret",
+      "position": "Goalkeeper",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/jh5q3x1764089642.png"
+    },
+    {
+      "name": "Alisson Santos",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Amir Rrahmani",
+      "position": "Defence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/hvd5tq1762288248.png"
+    },
+    {
+      "name": "André Zambo Anguissa",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Andre-Frank Zambo Anguissa",
+      "position": "Midfielder",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/bedkjv1762288303.png"
+    },
+    {
+      "name": "Antonio Vergara",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Benoît Badiashile",
+      "position": "Defence",
+      "image": "https://www.thesportsdb.com/images/media/player/cutout/3njzip1787690994.png"
+    },
+    {
+      "name": "Billy Gilmour",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Costantino Favasuli",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "David Neres",
+      "position": "Offence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/8i5j8e1762288449.png"
+    },
+    {
+      "name": "Dinis Rodrigues",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Giovane Nascimento",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Giovanni Di Lorenzo",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Kevin De Bruyne",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Leonardo Spinazzola",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Lorenzo Lucca",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Luca Marianucci",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Mathías Olivera",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Matteo Politano",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Nikita Contini Baranovsky",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Noa Lang",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Rafa Marin",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Rasmus Højlund",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Sam Beukema",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Scott McTominay",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Stanislav Lobotka",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Vanja Milinković-Savić",
+      "position": "Goalkeeper",
+      "image": null
+    }
+  ],
+  "Paris Saint-Germain": [
+    {
+      "name": "Achraf Hakimi",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Desire Doue",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Fabián Ruiz",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Ferrán Torres",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Illia Zabarnyi",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Joao Neves",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Khvicha Kvaratskhelia",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Lucas Beraldo",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Lucas Chevalier",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Lucas Digne",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Lucas Hernández",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Maghnes Akliouche",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Marquinhos",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Matvei Safonov",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Mika Godts",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Nuno Mendes",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Ousmane Dembélé",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Pedro Fernández",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Quentin Ndjantou",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Senny Mayulu",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Vitinha",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Warren Zaïre-Emery",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "William Pacho",
+      "position": "Defence",
+      "image": null
+    }
+  ],
+  "Porto": [
+    {
+      "name": "Alan Varela",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Alberto Baio",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "André Silva",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Borja Sainz",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Cláudio Ramos",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Diogo Costa",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Dominik Prpić",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Gabriel Veiga",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Gabriel Veron",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "In-beom Hwang",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Jakub Kiwior",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Jan Bednarek",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "João Afonso",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "João Costa Gomes",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Martim Fernandes",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Moura",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Nehuén Pérez",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Oskar Pietuszewski",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Pablo Rosario",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Pepê",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Samu Omorodion",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Santiago Giménez",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Seko Fofana",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Souza",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Vasco Sousa",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Victor Froholdt",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "William da Silva",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Zaidu Sanusi",
+      "position": "Defence",
+      "image": null
+    }
+  ],
+  "PSV": [
+    {
+      "name": "Adamo Nagalo",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Alassane Pléa",
+      "position": "Offence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/1p80qr1764595347.png"
+    },
+    {
+      "name": "Amir Bouhamdi",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Anass Salah-Eddine",
+      "position": "Left-Back",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/ff3c281762288806.png"
+    },
+    {
+      "name": "Armando Obispo",
+      "position": "Defence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/ja4e471764595048.png"
+    },
+    {
+      "name": "Couhaib Driouech",
+      "position": "Forward",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/cjlexr1764594758.png"
+    },
+    {
+      "name": "Dennis Man",
+      "position": "Offence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/mgnf751762288836.png"
+    },
+    {
+      "name": "Esmir Bajraktarevic",
+      "position": "Offence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/896xbs1764594499.png"
+    },
+    {
+      "name": "Fabian Merién",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Filip Kostić",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Guus Til",
+      "position": "Midfield",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/y654101764609008.png"
+    },
+    {
+      "name": "Isaac Babadi",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Ivan Perišić",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Jerdy Schouten",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Joel van den Berg",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Kiliann Sildillia",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Kodai Sano",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Lutsharel Geertruida",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Matej Kovar",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Mauro Júnior",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Nick Olij",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Noah Fernandez",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Paul Wanner",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Ricardo Pepi",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Ruben van Bommel",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Ryan Flamingo",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Sami Ouaissa",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Sergiño Dest",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Sven Mijnans",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Tijn Smolenaars",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Yarek Gasiorowski",
+      "position": "Defence",
+      "image": null
+    }
+  ],
+  "RB Leipzig": [
+    {
+      "name": "Abdoul Koné",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Andrija Maksimović",
+      "position": "Midfield",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/3kl9n41763561247.png"
+    },
+    {
+      "name": "Antonio Nusa",
+      "position": "Offence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/yo19551763561296.png"
+    },
+    {
+      "name": "Arthur Vermeeren",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Assan Ouédraogo",
+      "position": "Midfield",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/qh9ar91763561329.png"
+    },
+    {
+      "name": "Benjamin Henrichs",
+      "position": "Defence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/56aywn1763561180.png"
+    },
+    {
+      "name": "Benno Kaltefleiter",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Brajan Gruda",
+      "position": "Midfield",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/wwtykz1756994315.png"
+    },
+    {
+      "name": "Castello Lukeba",
+      "position": "Defence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/3wfwi21763561231.png"
+    },
+    {
+      "name": "Christoph Baumgartner",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Christopher Nkunku",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Conrad Harder",
+      "position": "Centre-Forward",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/2sim021763561160.png"
+    },
+    {
+      "name": "David Raum",
+      "position": "Defence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/wxbgdk1763561343.png"
+    },
+    {
+      "name": "El Chadaille Bitshiabu",
+      "position": "Centre-Back",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/usty7f1763561053.png"
+    },
+    {
+      "name": "Ezechiel Banzuzi",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Johan Bakayoko",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Leopold Zingerle",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Lukas Klostermann",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Maarten Vandevoordt",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Marc Guiu",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Max Finkgräfe",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Maxime Estève",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Neil El Aynaoui",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Nicolas  Seiwald",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Ørjan Nyland",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Ridle Baku",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Rocco Reitz",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Romulo Cruz",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Samba Konaté",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Suleman Sani",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Tidiam Gomis",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Viggo Gebel",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Willi Orban",
+      "position": "Defence",
+      "image": null
+    }
+  ],
+  "Real Betis": [
+    {
+      "name": "Abde Ezzalzouli",
+      "position": "Left Wing",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/c7fznc1762602800.png"
+    },
+    {
+      "name": "Abdessamad Ezzalzouli",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Aitor Ruibal",
+      "position": "Offence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/fivj6m1762603121.png"
+    },
+    {
+      "name": "Álvaro Fidalgo",
+      "position": "Midfield",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/hcx8an1750328188.png"
+    },
+    {
+      "name": "Álvaro Valles",
+      "position": "Goalkeeper",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/y059sw1762603136.png"
+    },
+    {
+      "name": "Álvaro Vallés Rosa",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Ángel Ortiz",
+      "position": "Defence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/y44ya31764677551.png"
+    },
+    {
+      "name": "Antony",
+      "position": "Offence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/vmgket1761255257.png"
+    },
+    {
+      "name": "Bartra",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Cucho Hernández",
+      "position": "Offence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/xvpcrx1762603023.png"
+    },
+    {
+      "name": "Dani Ceballos",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Diego Conde",
+      "position": "Goalkeeper",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/7q0ic61762888783.png"
+    },
+    {
+      "name": "Diego Llorente",
+      "position": "Defence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/b3medr1762603041.png"
+    },
+    {
+      "name": "Facundo Bernal",
+      "position": "Midfield",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/j6adlh1750614219.png"
+    },
+    {
+      "name": "Francisco Garcia",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Giovani Lo Celso",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Héctor Bellerín",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Iker Losada",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Isco",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Júnior Firpo",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Marc Roca",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Natan",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Nelson Deossa",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Pablo Fornals",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Rodrigo Riquelme",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Troy Parrott",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Valentín Gómez",
+      "position": "Defence",
+      "image": null
+    }
+  ],
+  "Real Madrid": [
+    {
+      "name": "Álvaro Carreras",
+      "position": "Defence",
+      "image": "https://www.thesportsdb.com/images/media/player/cutout/cn44j11788113370.png"
+    },
+    {
+      "name": "Andriy Lunin",
+      "position": "Goalkeeper",
+      "image": "https://www.thesportsdb.com/images/media/player/cutout/eg2iom1788111915.png"
+    },
+    {
+      "name": "Antonio Rüdiger",
+      "position": "Defence",
+      "image": "https://www.thesportsdb.com/images/media/player/cutout/5asi451788113447.png"
+    },
+    {
+      "name": "Arda Guler",
+      "position": "Midfield",
+      "image": "https://www.thesportsdb.com/images/media/player/cutout/ye6tv41788113953.png"
+    },
+    {
+      "name": "Aurélien Tchouameni",
+      "position": "Midfield",
+      "image": "https://www.thesportsdb.com/images/media/player/cutout/8ov2ro1788113887.png"
+    },
+    {
+      "name": "Bernardo Silva",
+      "position": "Midfield",
+      "image": "https://www.thesportsdb.com/images/media/player/cutout/zfv07e1788114024.png"
+    },
+    {
+      "name": "Brahim Diaz",
+      "position": "Offence",
+      "image": "https://www.thesportsdb.com/images/media/player/cutout/izl76o1788114611.png"
+    },
+    {
+      "name": "Carlos Espí",
+      "position": "Offence",
+      "image": "https://www.thesportsdb.com/images/media/player/cutout/l7111k1788114441.png"
+    },
+    {
+      "name": "Cucurella",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "David Jiménez",
+      "position": "Right-Back",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/yq5j7r1766043266.png"
+    },
+    {
+      "name": "Dean Huijsen",
+      "position": "Defence",
+      "image": "https://www.thesportsdb.com/images/media/player/cutout/8o5pj11788112604.png"
+    },
+    {
+      "name": "Denzel Dumfries",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Éder Militão",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Eduardo Camavinga",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Endrick",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Federico Valverde",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Ferland Mendy",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Ibrahima Konaté",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Jorge Cestero",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Jude Bellingham",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Kylian Mbappé",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Raúl",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Rodrygo",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Thiago Pitarch",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Thibaut Courtois",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Trent Alexander-Arnold",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Vinicius Junior",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Yan Diomandé",
+      "position": "Offence",
+      "image": null
+    }
+  ],
+  "Roma": [
+    {
+      "name": "Anass Salah-Eddine",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Artem Dovbyk",
+      "position": "Centre-Forward",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/ef1yx51758815098.png"
+    },
+    {
+      "name": "Bryan Cristante",
+      "position": "Midfield",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/0b2tmm1758815345.png"
+    },
+    {
+      "name": "Bryan Zaragoza",
+      "position": "Left Wing",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/s8qwqh1777708703.png"
+    },
+    {
+      "name": "Daniele Ghilardi",
+      "position": "Defence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/0j4b8v1758815751.png"
+    },
+    {
+      "name": "Devis Vásquez",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Devyne Rensch",
+      "position": "Defence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/eioup51758816339.png"
+    },
+    {
+      "name": "Donyell Malen",
+      "position": "Offence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/t2xdih1777708654.png"
+    },
+    {
+      "name": "Emanuele Lulli",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Evan N'Dicka",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Evan Ndicka",
+      "position": "Centre-Back",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/8ark361758816299.png"
+    },
+    {
+      "name": "Gianluca Mancini",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Giorgio De Marzi",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Konstantinos Koulierakis",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Leonardo Balerdi",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Lorenzo Pellegrini",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Manu Koné",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Mario Hermoso",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Marten de Roon",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Matias Soule",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Mile Svilar",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Nahuel Molina",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Niccolo Pisilli",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Paulo Dybala",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Pierluigi Gollini",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Rodrigo Mora",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Santiago Castro",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Wesley",
+      "position": "Defence",
+      "image": null
+    }
+  ],
+  "Shakhtar Donetsk": [
+    {
+      "name": "Andriy Pyatov",
+      "position": "Goalkeeper",
+      "image": "https://r2.thesportsdb.com/images/media/player/thumb/vhb1ci1533306187.jpg"
+    },
+    {
+      "name": "Artem Bondarenko",
+      "position": "Attacking Midfield",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/oailig1719684690.png"
+    },
+    {
+      "name": "Dentinho",
+      "position": "Forward",
+      "image": "https://r2.thesportsdb.com/images/media/player/thumb/azulrz1533738511.jpg"
+    },
+    {
+      "name": "Diego Arroyo",
+      "position": "Defender",
+      "image": null
+    },
+    {
+      "name": "Dmytro Kryskiv",
+      "position": "Midfielder",
+      "image": null
+    }
+  ],
+  "Slavia Praha": [
+    {
+      "name": "Adam Pudil",
+      "position": "Attacker",
+      "image": null
+    },
+    {
+      "name": "Albert Labík",
+      "position": "Defender",
+      "image": null
+    },
+    {
+      "name": "Babacar Sy",
+      "position": "Attacker",
+      "image": null
+    },
+    {
+      "name": "Boluwatife Ogungbayi",
+      "position": "Midfielder",
+      "image": null
+    },
+    {
+      "name": "Caumenan N'Guessan",
+      "position": "Defender",
+      "image": null
+    },
+    {
+      "name": "Christ Junior Tiéhi",
+      "position": "Midfielder",
+      "image": null
+    },
+    {
+      "name": "Daniel Šmiga",
+      "position": "Attacker",
+      "image": null
+    },
+    {
+      "name": "Daniel Toula",
+      "position": "Attacker",
+      "image": null
+    },
+    {
+      "name": "David Douděra",
+      "position": "Right Midfield",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/ecwvvp1718736744.png"
+    }
+  ],
+  "Slovan Bratislava": [
+    {
+      "name": "Alen Mustafić",
+      "position": "Midfielder",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/s56rod1702414745.png"
+    },
+    {
+      "name": "César Blackman",
+      "position": "Right-Back",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/baa05l1716211763.png"
+    },
+    {
+      "name": "Danylo Ignatenko",
+      "position": "Midfielder",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/t3oow01653405681.png"
+    },
+    {
+      "name": "Dominik Takáč",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Guram Kashia",
+      "position": "Centre-Back",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/ljrso81716210309.png"
+    },
+    {
+      "name": "Ivan Saponjic",
+      "position": "Forward",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/jmbnv81565180751.png"
+    },
+    {
+      "name": "Jaromír Zmrhal",
+      "position": "Left Midfield",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/ppl1nv1716206617.png"
+    },
+    {
+      "name": "Július Szöke",
+      "position": "Midfielder",
+      "image": null
+    }
+  ],
+  "Sporting CP": [
+    {
+      "name": "André Paulo",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Antonio Adán",
+      "position": "Goalkeeper",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/r5lmec1629371584.png"
+    },
+    {
+      "name": "Bento Estrela",
+      "position": "Central Midfield",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/21wjvm1683660594.png"
+    },
+    {
+      "name": "Bruno Paulista",
+      "position": "Midfielder",
+      "image": "https://r2.thesportsdb.com/images/media/player/thumb/xmbhg41527500254.jpg"
+    },
+    {
+      "name": "Bruno Ramos",
+      "position": "Attacker",
+      "image": null
+    },
+    {
+      "name": "Daniel Bragança",
+      "position": "Central Midfield",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/skv69a1724522410.png"
+    },
+    {
+      "name": "Diego Callai",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Diogo Pinto",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Diogo Sousa",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Eduardo Quaresma",
+      "position": "Defender",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/cj5ovd1680034400.png"
+    },
+    {
+      "name": "Eduardo Simões",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Flávio Gonçalves",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Fotis Ioannidis",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Geny Catamo",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Georgios Vagiannidis",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Gonçalo Inácio",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Issa Doumbia",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Ivan Fresneda",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Jesse Derry",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "João Simões",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Kaique",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Luis Guilherme",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Luis Suárez",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Maximiliano Araújo",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Moncef Zekri",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Nestor Irankunda",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Nuno Santos",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Pedro Lima",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Rafael Nel",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Rodrigo Dias",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Rodrigo Zalazar",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Rui Silva",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Salvador Blopa",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Sergi Altimira",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Silas Andersen",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Sotiris Alexandropoulos",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Zeno Debast",
+      "position": "Defence",
+      "image": null
+    }
+  ],
+  "Stuttgart": [
+    {
+      "name": "Ameen Al Dakhil",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Ameen Dakhil",
+      "position": "Centre-Back",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/fd4x6n1763586119.png"
+    },
+    {
+      "name": "Angelo Stiller",
+      "position": "Midfield",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/fjia5b1763586463.png"
+    },
+    {
+      "name": "Atakan Karazor",
+      "position": "Midfield",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/ph1o781763586281.png"
+    },
+    {
+      "name": "Badredine Bouanani",
+      "position": "Offence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/k1dd471763586061.png"
+    },
+    {
+      "name": "Bilal El Khannouss",
+      "position": "Midfield",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/ii2jau1763586312.png"
+    },
+    {
+      "name": "Chris Führich",
+      "position": "Offence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/5vfcdt1763586219.png"
+    },
+    {
+      "name": "Dan-Axel Zagadou",
+      "position": "Defence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/wj7q4u1763586528.png"
+    },
+    {
+      "name": "Deniz Undav",
+      "position": "Offence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/hcxx8s1763586492.png"
+    },
+    {
+      "name": "Dennis Seimen",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Dzenan Pejcinovic",
+      "position": "Offence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/5nzpym1763669520.png"
+    },
+    {
+      "name": "Ermedin Demirovic",
+      "position": "Offence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/hvuj8v1763586169.png"
+    },
+    {
+      "name": "Ertugrul Yigit",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Fabian Bredlow",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Finn Jeltsch",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Grischa Prömel",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Jamie Leweling",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Jarzinho Malanga",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Jeremy",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Josha Vagnoman",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Julian Chabot",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Justin Diehl",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Leo Sauer",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Leonidas Stergiou",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Lorenz Assignon",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Luca Jaquez",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Marius Funk",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Maximilian Mittelstädt",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Nikolas Nartey",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Ramon Hendriks",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Stefan Drljača",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Tiago Tomás",
+      "position": "Offence",
+      "image": null
+    }
+  ],
+  "Villarreal": [
+    {
+      "name": "Alassane Diatta",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Alberto Moleiro",
+      "position": "Offence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/89qaq61762888929.png"
+    },
+    {
+      "name": "Alex Freeman",
+      "position": "Defence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/9ik1yx1766511635.png"
+    },
+    {
+      "name": "Ayoze Pérez",
+      "position": "Offence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/ty4duh1762889321.png"
+    },
+    {
+      "name": "Carlos Macià",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Carlos Romero",
+      "position": "Defence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/j0a4yr1762378897.png"
+    },
+    {
+      "name": "Daniel Parejo",
+      "position": "Central Midfield",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/sxc6xa1762889036.png"
+    },
+    {
+      "name": "Georges Mikautadze",
+      "position": "Offence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/ytdm1g1762888910.png"
+    },
+    {
+      "name": "Gerard Moreno",
+      "position": "Offence",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/gyylkr1762888952.png"
+    },
+    {
+      "name": "Hugo López",
+      "position": "Attacker",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/m4imgr1775331473.png"
+    },
+    {
+      "name": "Ilias Akhomach",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Juan Foyth",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Juan Marcos Foyth",
+      "position": "Defender",
+      "image": "https://r2.thesportsdb.com/images/media/player/cutout/7lw2zv1762888828.png"
+    },
+    {
+      "name": "Logan Costa",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Luiz Lúcio Reis Júnior",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Nathan-Dylan Saliba",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Nicolas Pépé",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Pape Gueye",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Pau Navarro",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Péter Gulácsi",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Renato Veiga",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Ruben Gomez",
+      "position": "Goalkeeper",
+      "image": null
+    },
+    {
+      "name": "Santiago Comesaña",
+      "position": "Midfield",
+      "image": null
+    },
+    {
+      "name": "Santiago Mouriño",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Sergi Cardona",
+      "position": "Defence",
+      "image": null
+    },
+    {
+      "name": "Tajon Buchanan",
+      "position": "Offence",
+      "image": null
+    },
+    {
+      "name": "Tani Oluwaseyi",
+      "position": "Offence",
+      "image": null
+    }
+  ]
+}

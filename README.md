@@ -75,6 +75,8 @@ TheSportsDB uses its documented free shared key, 123, unless `THESPORTSDB_API_KE
 
 The script checks explicit club aliases and Soccer sport metadata, spaces TheSportsDB lookups below its free rate limit, and saves provider IDs, club names, source image URLs, and local paths in `manifest.json`. Unrelated or ambiguous club matches are skipped. Download failures preserve existing cached crests. The frontend tries TheSportsDB first, then football-data.org, then club initials if neither local image loads. Edited/custom club names outside this catalogue show initials.
 
+Player searches merge live provider responses with the committed `src/squad-fallbacks.json`, so all 30 tournament clubs remain searchable during provider outages or rate limits. After intentionally refreshing the ignored local `.squad-cache`, run `npm run squads:freeze` to update that sanitized fallback file.
+
 Both provider links and the required Football-Data attribution appear on the groups page. Provider access does not transfer club artwork rights. See the providers' terms: [TheSportsDB](https://www.thesportsdb.com/docs_terms_of_use.php) and [football-data.org](https://www.football-data.org/client/register).
 
 ## Hosting preparation

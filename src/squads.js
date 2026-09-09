@@ -1,8 +1,9 @@
 import ids from './team-provider-ids.json' with { type: 'json' };
+import fallbacks from './squad-fallbacks.json' with { type: 'json' };
 import { DrawError } from './groups.js';
 import { readFile, mkdir, writeFile } from 'node:fs/promises';
 const cacheDir = new URL('../.squad-cache/', import.meta.url);
-const cacheVersion = 3;
+const cacheVersion = 4;
 
 export function squadCacheFileName(team) {
   return `${team.replaceAll('/', '／').replaceAll('\\', '＼')}.json`;
@@ -67,9 +68,10 @@ export function createSquadLoader({ request = fetch, key = process.env.FOOTBALL_
         } catch { return []; }
       }
       const [sportsDbPlayers, footballPlayers] = await Promise.all([loadProvider('thesportsdb'), loadProvider('football-data')]);
-      const players = mergeSquads(footballPlayers, sportsDbPlayers);
+      const remotePlayers = mergeSquads(footballPlayers, sportsDbPlayers);
+      const players = mergeSquads(fallbacks[team] || [], remotePlayers);
       if (players.length) {
-          const providers = [footballPlayers.length && 'football-data', sportsDbPlayers.length && 'thesportsdb'].filter(Boolean);
+          const providers = [fallbacks[team]?.length && 'bundled', footballPlayers.length && 'football-data', sportsDbPlayers.length && 'thesportsdb'].filter(Boolean);
           const data = { team, players, provider: providers.join('+') };
           cache.set(team, { version: cacheVersion, data, expires: Date.now() + 86400000 });
           if (file) try { await mkdir(diskCache, { recursive: true }); await writeFile(file, JSON.stringify(cache.get(team))); } catch { /* Memory cache remains usable. */ }
