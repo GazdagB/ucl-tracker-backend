@@ -34,14 +34,40 @@ export function qualifiersFromStandings(groupStandings) {
   return [...winners, ...runnersUp].map((team, index) => ({ ...team, seed: index + 1 }));
 }
 
-function openingPairs(qualifiers) {
+function openingPairs(qualifiers, savedByKey) {
   const highSeeds = qualifiers.slice(0, 8);
   const lowSeeds = qualifiers.slice(8).reverse();
-  return highSeeds.map(high => {
+  const original = highSeeds.map(high => {
     let opponentIndex = lowSeeds.findIndex(low => low.group !== high.group);
     if (opponentIndex < 0) opponentIndex = 0;
     return [high, lowSeeds.splice(opponentIndex, 1)[0]];
   });
+  // Pin recorded ties before repairing the remaining seeded pairings. Never
+  // reinterpret an existing result as a different match after a deployment.
+  const pinned = new Map();
+  original.forEach(([home], index) => {
+    const saved = savedByKey.get(`knockout-r16-${index + 1}`);
+    const away = qualifiers.slice(8).find(team => team.team === saved?.awayTeam);
+    if (saved?.homeTeam === home.team && away) pinned.set(index, away);
+  });
+  const reserved = new Set([...pinned.values()].map(team => team.team));
+  const available = original.map(pair => pair[1]).filter(team => !reserved.has(team.team));
+  let best = original;
+  let bestCost = Infinity;
+  function search(index, remaining, pairs, cost) {
+    if (cost >= bestCost) return;
+    if (index === original.length) { best = pairs; bestCost = cost; return; }
+    const home = original[index][0];
+    const choices = pinned.has(index) ? [pinned.get(index)] : remaining;
+    for (const away of choices) {
+      const penalty = (home.player === away.player ? 1000 : 0)
+        + (home.group === away.group ? 100 : 0)
+        + (away.team !== original[index][1].team ? 1 : 0);
+      search(index + 1, remaining.filter(team => team.team !== away.team), [...pairs, [home, away]], cost + penalty);
+    }
+  }
+  search(0, available, [], 0);
+  return best;
 }
 
 function savedForFixture(savedByKey, key, home, away) {
@@ -68,7 +94,7 @@ function fixtureWinner(fixture) {
 export function buildKnockoutBracket(qualifiers, savedResults = []) {
   const savedByKey = new Map(savedResults.map(result => [result.fixtureKey, result]));
   const rounds = [];
-  const roundOf16 = makeRound(roundDefinitions[0], openingPairs([...qualifiers]), savedByKey);
+  const roundOf16 = makeRound(roundDefinitions[0], openingPairs([...qualifiers], savedByKey), savedByKey);
   rounds.push(roundOf16);
   let previous = roundOf16;
   for (const definition of roundDefinitions.slice(1)) {

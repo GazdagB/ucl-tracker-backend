@@ -1,6 +1,21 @@
 import assert from 'node:assert/strict';
 import test from 'node:test';
 import { buildKnockoutBracket, qualifiersFromStandings } from '../src/knockout.js';
+import { liveQualifiers, liveSaved } from './live-knockout-fixture.js';
+
+test('repairs the two live ownership clashes without changing recorded matches', () => {
+  const round = buildKnockoutBracket(liveQualifiers, liveSaved).rounds[0];
+  assert.equal(round.fixtures[1].away.team, 'Galatasaray');
+  assert.equal(round.fixtures[3].away.team, 'Real Madrid');
+  assert.equal(round.fixtures[5].away.team, 'Liverpool');
+  assert.ok(round.fixtures.every(f => f.home.player !== f.away.player));
+  assert.equal(new Set(round.fixtures.flatMap(f => [f.home.team, f.away.team])).size, 16);
+  for (const saved of liveSaved) assert.deepEqual(round.fixtures.find(f => f.key === saved.fixtureKey).result, saved);
+  const fixture = round.fixtures[1];
+  const result = { fixtureKey: fixture.key, homeTeam: fixture.home.team, awayTeam: fixture.away.team, homeScore: 1, awayScore: 0, winnerTeam: fixture.home.team };
+  const afterSave = buildKnockoutBracket(liveQualifiers, [...liveSaved, result]).rounds[0];
+  assert.deepEqual(afterSave.fixtures.map(f => [f.home.team,f.away.team]), round.fixtures.map(f => [f.home.team,f.away.team]));
+});
 
 function standings() {
   return Array.from({ length: 10 }, (_, index) => {
