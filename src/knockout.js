@@ -75,6 +75,31 @@ function savedForFixture(savedByKey, key, home, away) {
   return result && home && away && result.homeTeam === home.team && result.awayTeam === away.team ? result : null;
 }
 
+function repairLaterPairs(code, original, savedByKey) {
+  const pairs = original.map(pair => [...pair]);
+  // Restore previously saved swaps before considering new ones. A completed
+  // tie keeps its slot, participants, score and path to the following round.
+  const pinned = new Set();
+  for (let i = 0; i < pairs.length; i++) {
+    const saved = savedByKey.get(`knockout-${code}-${i + 1}`);
+    if (!saved || pairs[i][0]?.team !== saved.homeTeam) continue;
+    const donor = pairs.findIndex(pair => pair[1]?.team === saved.awayTeam);
+    if (donor < 0 || pinned.has(donor)) continue;
+    [pairs[i][1], pairs[donor][1]] = [pairs[donor][1], pairs[i][1]];
+    pinned.add(i);
+  }
+  // Wait for all qualifiers so advancing one team cannot reshuffle a round
+  // whose remaining participants are still unknown.
+  if (pairs.some(pair => pair.some(team => !team))) return pairs;
+  for (let i = 0; i < pairs.length; i++) {
+    if (pinned.has(i) || pairs[i][0].player !== pairs[i][1].player) continue;
+    const j = pairs.findIndex((pair, index) => index > i && !pinned.has(index)
+      && pair[0].player === pair[1].player && pair[0].player !== pairs[i][0].player);
+    if (j >= 0) [pairs[i][1], pairs[j][1]] = [pairs[j][1], pairs[i][1]];
+  }
+  return pairs;
+}
+
 function makeRound(definition, pairs, savedByKey) {
   return {
     ...definition,
@@ -100,7 +125,7 @@ export function buildKnockoutBracket(qualifiers, savedResults = []) {
   for (const definition of roundDefinitions.slice(1)) {
     const winners = previous.fixtures.map(fixtureWinner);
     const pairs = Array.from({ length: definition.count }, (_, index) => [winners[index * 2], winners[index * 2 + 1]]);
-    const round = makeRound(definition, pairs, savedByKey);
+    const round = makeRound(definition, repairLaterPairs(definition.code, pairs, savedByKey), savedByKey);
     rounds.push(round);
     previous = round;
   }

@@ -3,6 +3,31 @@ import test from 'node:test';
 import { buildKnockoutBracket, qualifiersFromStandings } from '../src/knockout.js';
 import { liveQualifiers, liveSaved } from './live-knockout-fixture.js';
 
+test('quarter-final ownership swap preserves all earlier results and survives saving either tie first', () => {
+  const saved = [...liveSaved, ...[
+    [6, 'Roma', 'Liverpool', 4, 6, 'Liverpool'],
+    [2, 'Feyenoord', 'Galatasaray', 5, 4, 'Feyenoord'],
+    [4, 'Slavia Praha', 'Real Madrid', 2, 7, 'Real Madrid'],
+  ].map(([i,homeTeam,awayTeam,homeScore,awayScore,winnerTeam]) => ({fixtureKey:`knockout-r16-${i}`,homeTeam,awayTeam,homeScore,awayScore,winnerTeam}))];
+  const bracket = buildKnockoutBracket(liveQualifiers, saved);
+  const qf = bracket.rounds[1].fixtures;
+  assert.deepEqual(qf.map(f => [f.home.team, f.away.team]), [
+    ['Paris Saint-Germain','Feyenoord'], ['Inter','Real Madrid'],
+    ['Fenerbahçe','Barcelona'], ['PSV','Liverpool'],
+  ]);
+  assert.ok(qf.every(f => f.home.player !== f.away.player));
+  for (const result of saved) assert.deepEqual(bracket.rounds[0].fixtures.find(f => f.key === result.fixtureKey).result, result);
+  for (const index of [2,3]) {
+    const tie = qf[index];
+    const result = {fixtureKey:tie.key,homeTeam:tie.home.team,awayTeam:tie.away.team,homeScore:1,awayScore:0,winnerTeam:tie.home.team};
+    const next = buildKnockoutBracket(liveQualifiers,[...saved,result]);
+    assert.deepEqual(next.rounds[1].fixtures.map(f => [f.home.team,f.away.team]), qf.map(f => [f.home.team,f.away.team]));
+    assert.deepEqual(next.rounds[1].fixtures[index].result,result);
+  }
+  const oldResult = {fixtureKey:'knockout-qf-3',homeTeam:'Fenerbahçe',awayTeam:'Liverpool',homeScore:1,awayScore:0,winnerTeam:'Fenerbahçe'};
+  assert.deepEqual(buildKnockoutBracket(liveQualifiers,[...saved,oldResult]).rounds[1].fixtures[2].result,oldResult);
+});
+
 test('repairs the two live ownership clashes without changing recorded matches', () => {
   const round = buildKnockoutBracket(liveQualifiers, liveSaved).rounds[0];
   assert.equal(round.fixtures[1].away.team, 'Galatasaray');
